@@ -22,5 +22,15 @@ or
 * ####Caroline K. Williams 
 <a href="https://github.com/ckwms63"><img src="image/GitHub-Mark-120px-plus.png" height="35" width="35"></a> <a href="https://twitter.com/ckwill36"><img src="image/Twitterlogo.png" height="35" width="35"></a>
 
+###Co-Organizers: 
+* ####Angela Li
+<a href="https://github.com/angela-li"><img src="image/GitHub-Mark-120px-plus.png" height="35" width="35"></a> <a href="https://twitter.com/CivicAngela"><img src="image/Twitterlogo.png" height="35" width="35"></a>
+
+* ####Ola Giwa
+<a href="https://github.com/zaynaib"><img src="image/GitHub-Mark-120px-plus.png" height="35" width="35"></a> <a href="https://twitter.com/AmazingSpeciali"><img src="image/Twitterlogo.png" height="35" width="35"></a>
+
+* ####Joshua Goldberg
+<a href="https://github.com/GoldbergData"><img src="image/GitHub-Mark-120px-plus.png" height="35" width="35"></a> <a href="https://twitter.com/GoldbergData"><img src="image/Twitterlogo.png" height="35" width="35"></a>
+
 ***
 
