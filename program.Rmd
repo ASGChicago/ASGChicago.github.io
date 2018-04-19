@@ -6,9 +6,11 @@ title: "Program"
 
 ###Goals:
 
-1. To facilitate R programmers in applying their skills to analyze Astrostatistics data that are publicly available
+1. To facilitate R programmers in applying their skills in analyzing Astrostatistics data that are publicly available.
 
-2. To present the Astrostatistics projects at R-Ladies Chicago meetup
+2. To present the Astrostatistics projects at R-Ladies Chicago meetup.
+
+***
 
 ###Program Planning:
 

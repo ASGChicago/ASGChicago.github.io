@@ -3,6 +3,18 @@ title: "Progress"
 ---
 ***
 
+###April 9, 2018
+
+It is an honor for the ASG Chicago to welcome Troy Hernandez from CRUG to serve as an advisor along with Kaelen L. Medeiros from R-Ladies Chicago. 
+
+***
+
+###March 8, 2018
+
+The ASG officially starts to collaborate with Troy Hernandez from Chicago R User Group (CRUG) to work on his Solar Flare project. Please click [HERE](https://github.com/Chicago-R-User-Group/2017-n5-Meetup-SolarFlares) to learn more about the project.
+
+***
+
 ###February 6, 2018
 
 The ASG website is published on Github.

@@ -12,9 +12,11 @@ title: "Astrostatistics 101"
 
 ###Main Resources:
 
-* [Center for Astrostatistics](https://asaip.psu.edu/) and
-* [Astrostatistics and Astroinformatics Portal](https://asaip.psu.edu/) at Pennsylvania State University
+* [Center for Astrostatistics](http://astrostatistics.psu.edu/) and
+[Astrostatistics and Astroinformatics Portal](https://asaip.psu.edu/ ) at Pennsylvania State University
 (serving the cross-disciplinary communities of astronomers, statisticians and computer scientists)
+
+* [Astrostatistics](http://www.astrostatistics.org/home) for hobbyists and amateurs. 
 
 * Book: [Modern Statistical Methods for Astronomy with R Applications](http://www.cambridge.org/us/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=HB&isbn=9780521767279#contentsTabAnchor) (2012)
 
