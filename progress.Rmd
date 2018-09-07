@@ -1,6 +1,23 @@
 ---
 title: "Progress"
 ---
+
+***
+
+###August 28, 2018
+
+The ASG Chicago members, Josh Goldberg and Caroline K. Williams gave a presentation, "Astrostatistics in R: Predicting Solar Flares" at R-Ladies Chicago meetup on August 28, 2018.  
+<p>
+<center><img src="image/SolarFlare1.jpg" style="width:100px;"></center>
+
+***
+
+###August 22, 2018
+
+Founder of the ASG Chicago, Caroline K. Williams was accepted to the [Fall 2018 class of NASA Datanauts](https://open.nasa.gov/blog/welcome-fall-2018-class-nasa-datanauts/). She attended the kick-off event at NASA Headquarters in Washington DC on August 21-22, 2018 with fellow R-Ladies Board Member, Katherine Simeon. 
+<p>
+<center><img src="image/datanauts1.jpg" style="width:100px;"></center>
+
 ***
 
 ###April 9, 2018
